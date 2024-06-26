@@ -1,0 +1,11 @@
+re
+PyPDF2==2.10.5
+numpy==1.26.0
+transformers==4.32.1
+datasets==1.12.1
+torch==2.1.0
+soundfile==0.12.1
+moviepy==1.0.3
+tkinter==8.6.12
+pylatexenc==2.10
+nougat-ocr==0.1.17
