@@ -1,5 +1,5 @@
 # Gui for pdf to tts using speech T5
-#### Video Demo:  https://youtu.be/PQ-lAuYP8tg
+
 #### Description:
 the goal is this project is  create ui for reading adamic paper using tts model
 orianly i want to Retrieval-based-Voice-Conversion-WebUI https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
